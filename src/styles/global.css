@@ -1,0 +1,74 @@
+textarea:focus .input:focus {
+  border: none;
+}
+
+.socials {
+}
+.hero-container {
+  display: flex;
+  width: 100%;
+  margin: 3rem 0rem;
+  align-items: center;
+}
+.half1 {
+  flex: 45%;
+  margin-left: 5rem;
+}
+
+.half2 {
+  flex: 55%;
+}
+.vidrepo-half {
+  flex: 1;
+}
+.vidrepo-container {
+  display: flex;
+  width: 100%;
+  gap: 4rem;
+  align-items: center;
+}
+.google-sign {
+  border: 1px solid #141414;
+  width: 475px;
+  height: 48px;
+  padding: 3px, 123px, 3px, 133px;
+  border-radius: 12px;
+}
+
+.sign-email {
+  border: 1px solid #b6b3c6;
+  width: 475px;
+  padding: 16px;
+  border-radius: 12px;
+}
+.sign-submit {
+  width: 475px;
+  padding: 16px 20px 16px 20px;
+  border-radius: 8px;
+  background: #120b48;
+  font-family: Work Sans;
+  font-size: 18px;
+  font-weight: 500;
+  color: #f9f9ff;
+  margin-top: 2rem;
+}
+
+.e-p{
+    font-family: Work Sans;
+font-size: 20px;
+font-weight: 500;
+
+}
+.active{
+padding: 12px 16px 12px 16px;
+border-radius: 24px;
+box-shadow: 4px 4px 40px 0px #1414141A;
+color: #0E75C5;
+
+}
+.e-flex{
+    background: #F0F0F0;
+    display: flex;
+    justify-content: center;
+    padding-top: 3rem;
+}
